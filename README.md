@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Prathibha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
